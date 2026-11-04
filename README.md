@@ -17,7 +17,7 @@ Made by [@samplesize_1](https://www.instagram.com/samplesize_1/) to learn all 20
 - Hints on or off: everyday names like "Patella (kneecap)", or technical names only
 - X-ray and peel modes to reach bones hidden inside others
 - Voice commands to zoom ("left foot", "spine", "whole body") in Chrome, Edge and Safari
-- English, French, Spanish, Portuguese (Brazil) and German
+- English, French, Spanish, Portuguese (Brazil) and German, plus Latin: the official Latin bone names (Terminologia Anatomica) with the interface in English
 - Progress and best scores stay in your browser: no account, nothing is sent anywhere
 
 ## Run it yourself
