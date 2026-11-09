@@ -689,7 +689,7 @@ const state = {
   mode: MODE_ALIASES[store.get('mode', 'study')] || store.get('mode', 'study'),
   set: store.get('set', 'names'),
   section: store.get('section', 'all'),   // 'all' | region | 'region/sub'
-  hints: store.get('hints', true) !== false,
+  hints: store.get('hints', false) === true,   // off unless turned on
   view: 'all', viewSide: 'both',          // camera zoom: an area and side to look at, separate from what is being quizzed
   xray: false, peel: false, clean: false,
   hidden: new Set(),
