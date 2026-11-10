@@ -34,9 +34,10 @@ Then open http://localhost:8000.
 
 | File | What it is |
 | --- | --- |
-| `index.html` | The app: the page and its code |
+| `index.html` | The page, and the settings that make it this atlas (zoom areas, colours, voice words) |
 | `data.js` | Everything the atlas teaches: regions, names, notes, translations |
 | `skeleton.glb` | The 3D skeleton |
+| `atlas-engine/atlas.js` | The atlas engine: the code, shared by the 3D atlases on [samplesize1.com](https://samplesize1.com/tools/) |
 | `atlas-engine/atlas.css` | The styles, shared by all the 3D atlases on [samplesize1.com](https://samplesize1.com/tools/) |
 | `atlas-engine/three-bundle.js` | [three.js](https://threejs.org/) r169, bundled into one file |
 | `progress.js` | Saves progress in the browser (localStorage) |
